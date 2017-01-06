@@ -5,8 +5,7 @@ I'm a CNRS researcher studying molecular solvation at
 Ecole Normale Supérieure de Paris  
 Département de Chimie  
 45 rue d'Ulm  
-Paris, 75005  
-France  
+Paris, France
 
 maximilien.levesque@ens.fr  
 Website: http://www.chimie.ens.fr/?q=umr-8640/physico-chimie-th-orique/profil/maximilien.levesque  
