@@ -1,17 +1,17 @@
 ### Maximilien Levesque
 
-I'm a CNRS researcher.
+I'm a CNRS researcher studying molecular solvation at  
+  
+Ecole Normale Supérieure de Paris  
+Département de Chimie  
+45 rue d'Ulm  
+Paris, 75005  
+France  
 
-### Contact me!
+maximilien.levesque@ens.fr  
+Website: http://www.chimie.ens.fr/?q=umr-8640/physico-chimie-th-orique/profil/maximilien.levesque  
 
-Ecole Normale Supérieure de Paris
-Département de Chimie
-45 rue d'Ulm
-Paris, 75005
-France
-
-maximilien.levesque@ens.fr
-Website: http://www.chimie.ens.fr/?q=umr-8640/physico-chimie-th-orique/profil/maximilien.levesque
+ 
 
 ### My publication list
 
