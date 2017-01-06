@@ -1,8 +1,8 @@
-### Welcome !
+### Maximilien Levesque
 
-## I'm Maximilien (Max) Levesque
+I'm a CNRS researcher.
 
-I'm a researcher at
+### Contact me!
 
 Ecole Normale Supérieure de Paris
 Département de Chimie
@@ -11,10 +11,9 @@ Paris, 75005
 France
 
 maximilien.levesque@ens.fr
-Mobile: +33 6 86 47 05 69
 Website: http://www.chimie.ens.fr/?q=umr-8640/physico-chimie-th-orique/profil/maximilien.levesque
 
-## My publication list
+### My publication list
 
 29. Maximilien Levesque, Daniel Borgis: Molecular density functional theory of water including density–polarization coupling. Journal of Physics Condensed Matter 06/2016; 28(24). DOI:10.1088/0953-8984/28/24/244005
 28. Volodymyr Sergiievskyi, Guillaume Jeanmairet, Maximilien Levesque, Daniel Borgis: Solvation free-energy pressure corrections in the Three Dimensional Reference Interaction Site Model. The Journal of Chemical Physics 11/2015; 143(143). DOI:10.1063/1.4935065
