@@ -11,7 +11,8 @@ Ecole Normale Supérieure
 
 ### Publication list
 
-29. Molecular density functional theory of water including density–polarization coupling. Journal of Physics Condensed Matter 06/2016; 28 [[doi]](dx.doi.org/10.1088/0953-8984/28/24/244005) [[arXiv]](https://arxiv.org/abs/1601.06535)
+29. Molecular density functional theory of water including density–polarization coupling.  
+Journal of Physics Condensed Matter 06/2016; 28 [doi](dx.doi.org/10.1088/0953-8984/28/24/244005) [arXiv](https://arxiv.org/abs/1601.06535)
 28. Volodymyr Sergiievskyi, Guillaume Jeanmairet, Maximilien Levesque, Daniel Borgis: Solvation free-energy pressure corrections in the Three Dimensional Reference Interaction Site Model. The Journal of Chemical Physics 11/2015; 143(143). DOI:10.1063/1.4935065
 27. Volodymyr Sergiievskyi, Guillaume Jeanmairet, Maximilien Levesque, Daniel Borgis: Pressure Correction in Classical Density Functional Theory: Hyper Netted Chain and Hard Sphere Bridge Functionals. 
 26. Jean-Mathieu Vanson, François-Xavier Coudert, Benjamin Rotenberg, Maximilien Levesque, Caroline Tardivat, Michaela Klotz, Anne Boutin: Unexpected coupling between flow and adsorption in porous media. Soft Matter 07/2015; 11(30). DOI:10.1039/c5sm01348h
