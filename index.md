@@ -9,8 +9,14 @@ Ecole Normale Supérieure
 24 rue Lhomond, Paris, France  
  
 
-### Publication list
-30. Transient hydrodynamic finite size effects in simulations under periodic boundary conditions  
+# Publication list
+
+1. Solvation in atomic liquids: Connection between Gaussian field theory and density functional theory  
+Cond. Matt. Phys. 147, 094107 (2017)  
+Volodymyr Sergiievskyi, Maximilien Levesque, Benjamin Rotenberg and Daniel Borgis  
+[doi](dx.doi.org/10.5488/CMP.20.33005) [arXiv](https://arxiv.org/pdf/1708.01299)
+
+1. Transient hydrodynamic finite size effects in simulations under periodic boundary conditions  
 Phys. Rev. E 95, 061301 (2017)  
 Adelchi J. Asta, Maximilien Levesque, Rodolphe Vuilleumier and Benjamin Rotenberg  
 [doi](dx.doi.org/10.1103/PhysRevE.95.061301)  [arXiv](https://arxiv.org/abs/1702.01082)
