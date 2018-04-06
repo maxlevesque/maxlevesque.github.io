@@ -13,9 +13,9 @@ Ecole Normale Supérieure
 # Publication list
 
 1. Screened Coulombic Orientational Correlations in Dilute Aqueous Electrolytes  
-J. Phys. Chem. Lett. 9, 1985 (2018)
-Luc Belloni, Daniel Borgis and Maximilien Levesque
-DOI: [10.1021/acs.jpclett.8b00606](dx.doi.org/10.1021/acs.jpclett.8b00606)   [arXiv](https://arxiv.org/abs/1803.10566)
+J. Phys. Chem. Lett. 9, 1985 (2018)  
+Luc Belloni, Daniel Borgis and Maximilien Levesque  
+DOI: [10.1021/acs.jpclett.8b00606](dx.doi.org/10.1021/acs.jpclett.8b00606)   [arXiv](https://arxiv.org/abs/1803.10566)  
 note: selected for a JPCL viewpoint by Damien Laage and Pavel Jungwirth [link](viewpoint)
 
 1. Efficient molecular density functional theory using generalized spherical harmonics expansions  
