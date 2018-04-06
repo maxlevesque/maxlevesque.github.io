@@ -11,12 +11,14 @@ Ecole Normale Supérieure
 [arXiv](https://arxiv.org/find/physics/1/au:+Levesque_M/0/1/0/all/0/1)   
 [researchgate](https://www.researchgate.net/profile/Maximilien_Levesque)  
 [github](http://github.com/maxlevesque)  
+[Google scholar](https://scholar.google.fr/citations?hl=fr&user=9ux6bc4AAAAJ&view_op=list_works&sortby=pubdate)  
+
 
 
 # Publication list
 
-1. **Screened Coulombic Orientational Correlations in Dilute Aqueous Electrolytes**  
-J. Phys. Chem. Lett. 9, 1985 (2018)  
+1. **Screened Coulombic Orientational Correlations in Dilute Aqueous Electrolytes**  
+J. Phys. Chem. Lett. 9, 1985 (2018)  
 Luc Belloni, Daniel Borgis and Maximilien Levesque  
 [doi](dx.doi.org/10.1021/acs.jpclett.8b00606) | [arXiv](https://arxiv.org/abs/1803.10566)  
 note: selected for a [JPCL viewpoint]() by Damien Laage and Pavel Jungwirth
