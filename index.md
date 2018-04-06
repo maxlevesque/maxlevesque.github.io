@@ -14,13 +14,13 @@ Ecole Normale Supérieure
 J. Phys. Chem. Lett. 9, 1985 (2018)  
 Luc Belloni, Daniel Borgis and Maximilien Levesque  
 [doi](dx.doi.org/10.1021/acs.jpclett.8b00606)  [arXiv](https://arxiv.org/abs/1803.10566)  
-note: selected for a JPCL viewpoint by Damien Laage and Pavel Jungwirth [link](viewpoint)
+note: selected for a [JPCL viewpoint]() by Damien Laage and Pavel Jungwirth
 
 1. Efficient molecular density functional theory using generalized spherical harmonics expansions  
 J. Chem. Phys. 147, 094107 (2017)  
 Lu Ding, Maximilien Levesque, Daniel Borgis and Luc Belloni  
 [doi](dx.doi.org/abs/10.1063/1.4994281) [arXiv]()   
-note: selected as one of 2017 JCP Editors choices
+note: selected as one of [JCP 2017 Editors' choice](https://scitationinfo.org/p/1XPS-857/jcp-editors-choice-2017)
 
 1. Solvation in atomic liquids: Connection between Gaussian field theory and density functional theory  
 Cond. Matt. Phys. 147, 094107 (2017)  
