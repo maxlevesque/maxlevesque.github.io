@@ -21,29 +21,29 @@ Luc Belloni, Daniel Borgis and Maximilien Levesque
 [doi](dx.doi.org/10.1021/acs.jpclett.8b00606) | [arXiv](https://arxiv.org/abs/1803.10566)  
 note: selected for a [JPCL viewpoint]() by Damien Laage and Pavel Jungwirth
 
-1. Efficient molecular density functional theory using generalized spherical harmonics expansions  
+1. **Efficient molecular density functional theory using generalized spherical harmonics expansions**  
 J. Chem. Phys. 147, 094107 (2017)  
 Lu Ding, Maximilien Levesque, Daniel Borgis and Luc Belloni  
 [doi](dx.doi.org/abs/10.1063/1.4994281) [arXiv]()   
 note: selected as one of [JCP 2017 Editors' choice](https://scitationinfo.org/p/1XPS-857/jcp-editors-choice-2017).  
 note2: selected for an American Institute of Physics [scilight](http://dx.doi.org/10.1063/1.5001508) by Rachele Hendricks-Sturrup.
 
-1. Solvation in atomic liquids: Connection between Gaussian field theory and density functional theory  
+1. **Solvation in atomic liquids: Connection between Gaussian field theory and density functional theory**  
 Cond. Matt. Phys. 147, 094107 (2017)  
 Volodymyr Sergiievskyi, Maximilien Levesque, Benjamin Rotenberg and Daniel Borgis  
 [doi](dx.doi.org/10.5488/CMP.20.33005) [arXiv](https://arxiv.org/pdf/1708.01299)
 
-1. Transient hydrodynamic finite size effects in simulations under periodic boundary conditions  
+1. **Transient hydrodynamic finite size effects in simulations under periodic boundary conditions**  
 Phys. Rev. E 95, 061301 (2017)  
 Adelchi J. Asta, Maximilien Levesque, Rodolphe Vuilleumier and Benjamin Rotenberg  
 [doi](dx.doi.org/10.1103/PhysRevE.95.061301)  [arXiv](https://arxiv.org/abs/1702.01082)
 
-29. Molecular density functional theory of water including density–polarization coupling.  
+29. **Molecular density functional theory of water including density–polarization coupling**  
 J. Phys.: Condens. Matter 28, 244005 (2016)  
 Guillaume Jeanmairet, Nicolas Levy, Maximilien Levesque and Daniel Borgis  
 [doi](dx.doi.org/10.1088/0953-8984/28/24/244005)  [arXiv](https://arxiv.org/abs/1601.06535)
 
-28. Solvation free-energy pressure corrections in the Three Dimensional Reference Interaction Site Model.  
+28. **Solvation free-energy pressure corrections in the Three Dimensional Reference Interaction Site Model**  
 J. Chem. Phys. 11, 143 (2015)  
 Volodymyr Sergiievskyi, Guillaume Jeanmairet, Maximilien Levesque, Daniel Borgis  
 [doi](dx.doi.org/10.1063/1.4935065)
