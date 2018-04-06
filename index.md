@@ -13,7 +13,7 @@ Ecole Normale Supérieure
 1. Screened Coulombic Orientational Correlations in Dilute Aqueous Electrolytes  
 J. Phys. Chem. Lett. 9, 1985 (2018)  
 Luc Belloni, Daniel Borgis and Maximilien Levesque  
-[doi](dx.doi.org/10.1021/acs.jpclett.8b00606) | [arXiv](https://arxiv.org/abs/1803.10566)  
+[doi](dx.doi.org/10.1021/acs.jpclett.8b00606) || [arXiv](https://arxiv.org/abs/1803.10566)  
 note: selected for a [JPCL viewpoint]() by Damien Laage and Pavel Jungwirth
 
 1. Efficient molecular density functional theory using generalized spherical harmonics expansions  
