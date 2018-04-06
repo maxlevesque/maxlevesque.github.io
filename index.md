@@ -25,7 +25,8 @@ note: selected for a [JPCL viewpoint]() by Damien Laage and Pavel Jungwirth
 J. Chem. Phys. 147, 094107 (2017)  
 Lu Ding, Maximilien Levesque, Daniel Borgis and Luc Belloni  
 [doi](dx.doi.org/abs/10.1063/1.4994281) [arXiv]()   
-note: selected as one of [JCP 2017 Editors' choice](https://scitationinfo.org/p/1XPS-857/jcp-editors-choice-2017)
+note: selected as one of [JCP 2017 Editors' choice](https://scitationinfo.org/p/1XPS-857/jcp-editors-choice-2017).  
+note2: selected for an American Institute of Physics [scilight](http://dx.doi.org/10.1063/1.5001508) by Rachele Hendricks-Sturrup.
 
 1. Solvation in atomic liquids: Connection between Gaussian field theory and density functional theory  
 Cond. Matt. Phys. 147, 094107 (2017)  
