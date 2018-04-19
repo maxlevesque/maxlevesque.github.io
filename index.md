@@ -1,10 +1,8 @@
-I'm a CNRS researcher studying molecular solvation at the molecular scale.  
-I'm using statistical mechanics and machine learning.  
+I'm a CNRS researcher working on the solvation, i.e., on what happens to a molecule when it is embedded in a solvent, at the molecular scale. I'm using statistical mechanics and machine learning.  
 
 # Contact
 
 maximilien.levesque@ens.fr   
-
 Ecole Normale Supérieure
 24 rue Lhomond, Paris, France
 
